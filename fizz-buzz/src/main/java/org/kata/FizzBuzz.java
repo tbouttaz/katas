@@ -2,14 +2,22 @@ package org.kata;
 
 public class FizzBuzz {
     public String convert(int number) {
-        if (number % 3 == 0 && number % 5 == 0) {
+        if (isMultipleOfThree(number) && isMultipleOfFive(number)) {
             return "FizzBuzz";
-        } else if (number % 3 == 0) {
+        } else if (isMultipleOfThree(number)) {
             return "Fizz";
-        } else if (number % 5 == 0) {
+        } else if (isMultipleOfFive(number)) {
             return "Buzz";
         }
 
         return String.valueOf(number);
+    }
+
+    private boolean isMultipleOfFive(int number) {
+        return number % 5 == 0;
+    }
+
+    private boolean isMultipleOfThree(int number) {
+        return number % 3 == 0;
     }
 }
