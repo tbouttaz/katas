@@ -28,4 +28,9 @@ public class FizzBuzzTest {
         assertThat(fizzBuzz.convert(14), is("14"));
     }
 
+    @Test
+    public void should_return_Fizz_given_multiple_of_three() {
+        assertThat(fizzBuzz.convert(3), is("Fizz"));
+    }
+
 }
