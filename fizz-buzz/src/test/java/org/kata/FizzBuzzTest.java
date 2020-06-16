@@ -36,4 +36,9 @@ public class FizzBuzzTest {
         assertThat(fizzBuzz.convert(12), is("Fizz"));
     }
 
+    @Test
+    public void should_return_Buzz_given_multiple_of_five() {
+        assertThat(fizzBuzz.convert(5), is("Buzz"));
+    }
+
 }
