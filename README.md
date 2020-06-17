@@ -17,7 +17,7 @@
 ### Seed projects
 Seed projects to quickly start practicing TDD in different programming languages.
 
- - [Java](https://github.com/paucls/java-gradle-kata-seed)
+ - [Java](./seed/java)
  (Junit 4, AssertJ, Mockito, JUnitParams)
 
 - [Kotlin](https://github.com/paucls/tdd-kata-seeds/tree/master/kotlin-junit5)
