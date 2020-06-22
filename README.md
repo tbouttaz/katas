@@ -1,7 +1,7 @@
 # Katas
 
-## Done
-- [Fizz-buzz](./fizz-buzz/README.md)
+## Doing
+- [Rock Paper Scissors](./rock-paper-scissors/README.md)
 
 ## To do
 - [Fibonacci Sequence](https://github.com/paucls/tdd-workshop/blob/master/katas/fibonacci.md)
@@ -10,9 +10,11 @@
 - [String Calculator](https://github.com/paucls/tdd-workshop/blob/master/katas/string-calculator.md)
 - [Phone Numbers](https://github.com/paucls/tdd-workshop/blob/master/katas/phone-numbers.md)
 - [Bowling Game](https://github.com/paucls/tdd-workshop/blob/master/katas/bowling-game.md)
-- [Rock Paper Scissors](https://github.com/paucls/tdd-workshop/blob/master/katas/rock-paper-scissors.md)
 - [Customer Registration](https://github.com/paucls/tdd-workshop/blob/master/katas/customer-registration.md)
 - [Bank Account](https://github.com/paucls/tdd-workshop/blob/master/katas/bank-account.md)
+
+## Done
+- [Fizz-buzz](./fizz-buzz/README.md)
 
 ### Seed projects
 Seed projects to quickly start practicing TDD in different programming languages.
