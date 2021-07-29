@@ -1,18 +1,19 @@
 # Katas
 
 ### To do
+- [Bank Account](https://github.com/paucls/tdd-workshop/blob/master/katas/bank-account.md)
 - [Fibonacci Sequence](https://github.com/paucls/tdd-workshop/blob/master/katas/fibonacci.md)
 - [Leap Year](https://github.com/paucls/tdd-workshop/blob/master/katas/leap-year.md)
 - [Password Validator](https://github.com/paucls/tdd-workshop/blob/master/katas/password-validator.md)
 - [Phone Numbers](https://github.com/paucls/tdd-workshop/blob/master/katas/phone-numbers.md)
 - [Bowling Game](https://github.com/paucls/tdd-workshop/blob/master/katas/bowling-game.md)
 - [Customer Registration](https://github.com/paucls/tdd-workshop/blob/master/katas/customer-registration.md)
-- [Bank Account](https://github.com/paucls/tdd-workshop/blob/master/katas/bank-account.md)
 
 ### Done
 - [Fizz-buzz](./fizz-buzz/README.md)
 - [Rock Paper Scissors](./rock-paper-scissors/README.md)
 - [String Calculator](https://github.com/paucls/tdd-workshop/blob/master/katas/string-calculator.md)
+- [https://github.com/Cork-Software-Crafters/MarsRover_Kata](https://github.com/Cork-Software-Crafters/MarsRover_Kata)
 
 ## TDD good habits
 - Write first a failing test 
