@@ -13,7 +13,7 @@
 - [Fizz-buzz](./fizz-buzz/README.md)
 - [Rock Paper Scissors](./rock-paper-scissors/README.md)
 - [String Calculator](https://github.com/paucls/tdd-workshop/blob/master/katas/string-calculator.md)
-- [https://github.com/Cork-Software-Crafters/MarsRover_Kata](https://github.com/Cork-Software-Crafters/MarsRover_Kata)
+- [Mars Rover](https://github.com/Cork-Software-Crafters/MarsRover_Kata)
 
 ## TDD good habits
 - Write first a failing test 
